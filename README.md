@@ -6,7 +6,7 @@
 I have a background in electronics and also a few years in the Swedish<br>
 school-system.</p>
 
-<p>Right now Im currently a student at "Medieinstitutet" in Stockholm<br>
+<p>Right now Im currently a student at ***"Medieinstitutet"*** in Stockholm<br>
 and studing to become a FrontEnd Developer.</p>
 
 <p>Out side of studing I spend alot of time with the family. Married to <br>
