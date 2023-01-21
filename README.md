@@ -1,22 +1,20 @@
-# Hello!
+# Hello :wave:
 
-### - Let me introduce myself!
+### - This is me!:rocket:
 
-<p>My name is Joel del Pilar, Im 35 years old (as of 2022) <br>
-I have a background in electronics and also a few years in the Swedish<br>
-school-system.</p>
+Front end developer - aspiring - currently studying at Mediainstitute in Stockholm, Sweden.
 
-<p>Right now Im currently a student at ***"Medieinstitutet"*** in Stockholm<br>
-and studing to become a FrontEnd Developer.</p>
-
-<p>Out side of studing I spend alot of time with the family. Married to <br>
-Stephanie and we have three amazing kids. Love to take pictures the old fashion <br>
-way with film, it slowes things down and is just what I need in my live atm. </p>
-
-<p>Just started to make my way around here in GitHub, more info will come later.<br>
-Feel free to comment on my repo's, what can be done in a better way and what best practices<br>
-have I missed? Cheers! </p>
-
+#### :student: Current tech knowledge:
+  - HTML 5
+  - CSS / SCSS
+  - JavaScript / TypeScript
+  - Vue.js
+  
+  Basic knowledge and know how to get around, problem solve and find solutions.
+  
+#### :thumbsup: Likes:
+Semantic HTML with focus on <b>a11y</b>, here I like to get better, find new ways and build webb that works, for everyone. Also I'm trying to make the best enviroment for developing, setting up project with a high standard regarding struckture and organicastion. :zap:
+ 
 
 <!---
 JoeldelPilar/JoeldelPilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
