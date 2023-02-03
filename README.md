@@ -9,6 +9,7 @@ Front end developer - aspiring - currently studying at Medieinstitute in Stockho
   - CSS / SCSS
   - JavaScript / TypeScript
   - Vue.js
+  - -Jest
   
   Basic knowledge and know how to get around, problem solve and find solutions.
   
