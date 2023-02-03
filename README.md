@@ -2,7 +2,7 @@
 
 ### - This is me!:rocket:
 
-Front end developer - aspiring - currently studying at Mediainstitute in Stockholm, Sweden.
+Front end developer - aspiring - currently studying at Medieinstitute in Stockholm, Sweden.
 
 #### :student: Current tech knowledge:
   - HTML 5
