@@ -17,7 +17,7 @@ Front end developer - aspiring - currently studying at Medieinstitute in Stockho
   Basic knowledge and know how to get around, problem solve and find solutions.
   
 #### :thumbsup: Likes:
-Semantic HTML with focus on <b>a11y</b>, here I like to get better, find new ways and build webb that works, for everyone. Also I'm trying to make the best enviroment for developing, setting up project with a high standard regarding struckture and organicastion. :zap:
+Semantic HTML with focus on <b>a11y</b>, here I like to get better, find new ways and build web that works, for everyone. Also I'm trying to make the best enviroment for developing, setting up project with a high standard regarding structure and organizastion. :zap:
  
 
 <!---
