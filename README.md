@@ -10,6 +10,9 @@ Front end developer - aspiring - currently studying at Medieinstitute in Stockho
   - JavaScript / TypeScript
   - Vue.js
   - Jest
+  - Express
+  - MongoDB
+  - MySQL
   
   Basic knowledge and know how to get around, problem solve and find solutions.
   
