@@ -4,17 +4,12 @@
 
 Front end developer - aspiring - currently studying at Medieinstitute in Stockholm, Sweden.
 
-#### :student: Current tech knowledge:
-  - HTML 5
-  - CSS / SCSS
-  - JavaScript / TypeScript
-  - Vue.js
-  - Jest
-  - Express
-  - MongoDB
-  - MySQL
-  
-  Basic knowledge and know how to get around, problem solve and find solutions.
+Strong believer in the golden rule: do unto others as you would have others do unto you. 🥇
+
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vite,nodejs,jest,figma,git,github,vscode)](https://skillicons.dev)
+
+I love to learn new skills so the list will continue to grow. Some skills and techniques are used in my daily work, others on and off.
   
 #### :thumbsup: Likes:
 Semantic HTML with focus on <b>a11y</b>, here I like to get better, find new ways and build web that works, for everyone. Also I'm trying to make the best enviroment for developing, setting up project with a high standard regarding structure and organizastion. :zap:
