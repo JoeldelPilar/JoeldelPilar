@@ -6,8 +6,8 @@ Front end developer - aspiring - currently studying at Medieinstitute in Stockho
 
 Strong believer in the golden rule: do unto others as you would have others do unto you. 🥇
 
-## My skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vue,vite,nodejs,md,mongodb,jest,figma,git,github,vscode)](https://skillicons.dev)
+## experience
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,vue,vite,nodejs,md,mongodb,jest,figma,git,github,vscode)](https://skillicons.dev)
 
 I love to learn new skills so the list will continue to grow. Some skills and techniques are used in my daily work, others on and off.
   
