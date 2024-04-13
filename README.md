@@ -1,6 +1,6 @@
 # Hello :wave:
 
-### - This is me!:rocket:
+### - This is me! :rocket:
 
 Front end developer - aspiring - currently studying at Medieinstitute in Stockholm, Sweden.
 
