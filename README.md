@@ -6,12 +6,17 @@ I started out as a frontend developer and in 2024 I began working with backend d
 
 
 ## experience
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,vue,vite,express,nodejs,md,mongodb,jest,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,vue,vite,express,nodejs,md,mongodb,jest,figma,git,github,vscode,go)](https://skillicons.dev)
 
 I love to learn new skills so the list will continue to grow. Some skills and techniques are used in my daily work, others on and off.
   
-### :thumbsup: Likes:
-Semantic HTML with focus on <b>a11y</b>, here I like to get better, find new ways and build web that works, for everyone. Also I'm trying to make the best enviroment for developing, setting up project with a high standard regarding structure and organizastion. :zap:
+### Likes :thumbsup: 
+- HTML with good semantics.
+- Component based development
+- Clean Code
+- Roboust solutions
+- Tests
+- Readability
  
 
 <!---
