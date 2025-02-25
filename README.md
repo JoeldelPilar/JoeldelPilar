@@ -1,17 +1,16 @@
 # Hello :wave:
 
-### - This is me! :rocket:
+## - about :rocket:
 
-Front end developer - aspiring - currently studying at Medieinstitute in Stockholm, Sweden.
+I started out as a frontend developer and in 2024 I began working with backend development using Fastify and Go. My goal in every project is to deliver clean and robust solutions. I use both my experience and AI in my daily work to solve tasks and improve codebases.
 
-Strong believer in the golden rule: do unto others as you would have others do unto you. 🥇
 
 ## experience
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,vue,vite,express,nodejs,md,mongodb,jest,figma,git,github,vscode)](https://skillicons.dev)
 
 I love to learn new skills so the list will continue to grow. Some skills and techniques are used in my daily work, others on and off.
   
-#### :thumbsup: Likes:
+### :thumbsup: Likes:
 Semantic HTML with focus on <b>a11y</b>, here I like to get better, find new ways and build web that works, for everyone. Also I'm trying to make the best enviroment for developing, setting up project with a high standard regarding structure and organizastion. :zap:
  
 
